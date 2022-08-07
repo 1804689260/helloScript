@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hello world
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  hello
 // @author       Wxc
 // @match        *://*
@@ -12,6 +12,5 @@
 
 (function () {
     'use strict';
-
-    console.log('wxc');
+    console.log('hello ，this is version 0.1.1');
 })();
