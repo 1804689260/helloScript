@@ -13,4 +13,5 @@
 (function () {
     'use strict';
     console.log('hello ，this is version 0.1.1');
+    let a = 'abc'
 })();
